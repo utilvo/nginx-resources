@@ -40,6 +40,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration)
 
 ## Security
+* [Utilvo EdgeShield](https://utilvo.com/edge-shield) - Zero-overhead Nginx `geo` CIDR blocklists and `map` User-Agent firewall configs for blocking cloud scraper ASNs (`AS132203`, `AS45102`) while whitelisting verified search crawlers ([GitHub](https://github.com/utilvo/utilvo-edge-shield)).
 
 - [BunkerWeb - Next-generation, open-source Web Application Firewall (WAF) based on Nginx](https://www.bunkerweb.io)
 
